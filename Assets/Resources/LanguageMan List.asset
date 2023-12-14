@@ -14,12 +14,49 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Languages:
   - English
-  - Persian
-  WordsGroup:
-  - Name: MainMenu
-    WordsProperty:
+  - Arabic
+  - Chinese
+  WordGroups:
+  - GroupName: MainMenu
+    GroupWords:
     - Key: Start
       Words:
       - Start
-      - "\u0634\u0631\u0648\u0639"
-  TextFile: {fileID: 0}
+      - "\u0628\u062F\u0627\u0639\u0647"
+      - "\u5F00\u59CB"
+    - Key: Apply
+      Words:
+      - Apply
+      - "\u064A\u062A\u0642\u062F\u0645"
+      - "\u7533\u8BF7"
+    - Key: Settings
+      Words:
+      - Settings
+      - "\u0625\u0639\u062F\u0627\u062F\u0627\u062A"
+      - "\u8BBE\u7F6E"
+    - Key: Exit
+      Words:
+      - Exit
+      - "\u0645\u062E\u0631\u062C"
+      - "\u51FA\u53E3"
+    - Key: Open Dialog
+      Words:
+      - Open Dialog
+      - "\u0627\u0641\u062A\u062D \u0627\u0644\u062D\u0648\u0627\u0631"
+      - "\u6253\u5F00\u5BF9\u8BDD\u6846"
+    - Key: This is an animated Text...
+      Words:
+      - This is an animated Text...
+      - "\u0647\u0630\u0627 \u0646\u0635 \u0645\u062A\u062D\u0631\u0643..."
+      - "\u8FD9\u662F\u4E00\u4E2A\u52A8\u753B\u6587\u672C..."
+    - Key: 'Select Language:'
+      Words:
+      - 'Select Language:'
+      - "\u0627\u062E\u062A\u0627\u0631 \u0627\u0644\u0644\u063A\u0629:"
+      - "\u9009\u62E9\u8BED\u8A00:"
+    - Key: Hello World. This is a sample dialog.
+      Words:
+      - Hello World. This is a sample dialog.
+      - "\u0645\u0631\u062D\u0628\u0627 \u0628\u0627\u0644\u0639\u0627\u0644\u0645.
+        \u0647\u0630\u0627 \u0647\u0648 \u0627\u0644\u062D\u0648\u0627\u0631 \u0639\u064A\u0646\u0629."
+      - "\u4F60\u597D\u4E16\u754C\u3002 \u8FD9\u662F\u4E00\u4E2A\u793A\u4F8B\u5BF9\u8BDD\u6846\u3002"
