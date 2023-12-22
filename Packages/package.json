@@ -1,0 +1,20 @@
+{
+    "name": "com.mahdirahmatii.languageman",
+    "displayName": "LanguageMan",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "LanguageMan is a simple and versatile language manager for Unity games. It provides an easy-to-use interface for handling multiple languages in your game.",
+    "keywords": ["unity", "package"],
+    "author": {
+      "name": "Mahdi Rahmati",
+      "email": "mrmahdirahmati@yahoo.com"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/MahdiRahmatii/LanguageMan.git"
+    },
+    "license": "MIT",
+    "dependencies": {},
+    "testDependencies": {},
+    "devDependencies": {}
+  }
